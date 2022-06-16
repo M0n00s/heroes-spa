@@ -14,3 +14,6 @@ tecnologias implementadas en el proyecto.
 
 esto fue parte del curso de Fernando Herrera. 
 estilos en mejora. 
+
+
+Link de Despliegue: https://heroapp-spa.netlify.app/marvel
