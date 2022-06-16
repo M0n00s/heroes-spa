@@ -7,7 +7,7 @@ export const LoginScreen = () => {
 	const { login } = useContext(AuthContext);
 
 	const handleLogIn = () => {
-		login("abdel arocha");
+		login("Unknow User");
 		navigate("/", {
 			replace: true,
 		});
